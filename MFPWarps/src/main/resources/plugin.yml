@@ -1,0 +1,10 @@
+name: MFPWarps
+version: '${project.version}'
+main: com.unclecole.mfpwarps.MFPWarps
+api-version: 1.20
+prefix: MFPWarps
+authors: [ UncleCole ]
+depend: [GriefPrevention]
+commands:
+  pwarp:
+  development:
